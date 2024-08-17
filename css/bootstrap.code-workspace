@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../chauhan IT solution"
+		},
+		{
+			"path": "../../javascript"
+		},
+		{
+			"path": "../../project 1"
+		},
+		{
+			"path": "../../tourist"
+		},
+		{
+			"path": "../../web designing"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap"
+	}
+}

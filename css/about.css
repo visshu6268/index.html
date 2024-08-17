@@ -1,0 +1,161 @@
+.weblogo {
+    width: 65px;
+}
+.navbar {
+    background: #00000063!important;
+}
+.navbar-nav li {
+    padding: 0 10px;
+}
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 300px;
+    font-size: 20px;
+}
+.moblogo {
+    display: none;
+}
+.xxx {
+    background: url(../image/ourimage.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+.a {
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-family: math;
+}
+.b {
+    text-align: justify;
+    text-align: justify;
+    word-spacing: 2px;
+    letter-spacing: 3px;
+    font-family: math;
+    line-height: 29px;
+}
+.d{
+    background: url(../image/ourimage.jpg);
+    width: 100%;
+    height: 400px;
+    margin-top: 60px;
+}
+.e {
+    color: #ffffffba;
+    padding-top: 140px;
+    word-spacing: 3px;
+    font-family: math;
+}
+.f {
+    color: #ffffffba;
+    padding-top: 3px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 44px;
+}
+.about {
+    margin-top: 57px;
+    font-family: math;
+    word-spacing: 7px;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+
+}
+.img12 {
+    width: 90%;
+}
+.g {
+    text-align: justify;
+    line-height: 37px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    color: #0000009e;
+}
+.h {
+    margin-top: 85px; 
+    /* font-size: 40px; */
+    text-transform: uppercase;
+    font-weight: normal;
+    margin-bottom: 35px;
+}
+.I {
+    text-align: justify;
+    word-spacing: 4px;
+    letter-spacing: 3px;
+    line-height: 27px;
+    font-weight: 400;
+    /* margin-top: -10px; */
+}
+.img123 {
+    width: 90%;
+}
+button {
+    margin-top: 50px;
+     height: 45px;
+    width: 190px;
+}
+.J {
+    font-size: 22px;
+    font-weight: 300;
+    color: white;
+}
+.logo {
+    width: 70%;
+    margin-top: 50px;
+}
+.us {
+    color: white;
+    font-size: 59px;
+    font-family: math;
+    font-weight: 300;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+.content {
+    color: white;
+    letter-spacing: 1px;
+    text-align: justify;
+    word-spacing: 2px;
+    line-height: 42px;
+    font-family: math;
+}
+.content2 {
+    color: orange;
+    letter-spacing: 8px;
+    font-size: 20px;
+    padding-top: 20px;
+    font-family: math;
+}
+.content3 {
+    color: orange;
+    letter-spacing: 8px;
+    font-size: 20px;
+    padding-top: 20px;
+    font-family: math;
+}
+.cc {
+    background-color: black;
+}
+
+.end {
+    color: white;
+    text-align: center;
+    padding-top: 6px;
+    font-family: math;
+}
+@media(max-width:768px) {
+    .moblogo {
+        display: block;
+    }
+
+    .weblogo {
+        display: none;
+    }
+
+    .navbar {
+        background: #fcb21b !important;
+    }
+}

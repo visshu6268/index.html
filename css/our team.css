@@ -1,0 +1,120 @@
+.weblogo {
+    width: 65px;
+}
+
+.navbar {
+    background: #0000006b !important;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    color: #fff;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.moblogo {
+    display: none;
+}
+.xxx {
+    background: url(../image/ourimage.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+.priyank {
+    width: 100%;
+    height: 100%;
+}
+.name {
+    font-size: 31px;
+    font-family: math;
+}
+.a {
+    text-align: justify;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+.aa {
+    height: 44px;
+    width: 116px;
+    font-size: 17px;
+}
+.aaa{
+    margin-top: -95px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.aaaa{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.b {
+    border: 1px solid #a52a2a2b;
+    width: 100%;
+    border-radius: 10px;
+}
+.logo {
+    width: 70%;
+    margin-top: 50px;
+}
+.us {
+    color: white;
+    font-size: 59px;
+    font-family: math;
+    font-weight: 300;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+.content {
+    color: white;
+    letter-spacing: 1px;
+    text-align: justify;
+    word-spacing: 2px;
+    line-height: 42px;
+    font-family: math;
+}
+.content2 {
+    color: orange;
+    letter-spacing: 8px;
+    font-size: 20px;
+    padding-top: 20px;
+    font-family: math;
+}
+.content3 {
+    color: orange;
+    letter-spacing: 8px;
+    font-size: 20px;
+    padding-top: 20px;
+    font-family: math;
+}
+.cc {
+    background-color: black;
+}
+
+.end {
+    color: white;
+    text-align: center;
+    padding-top: 6px;
+    font-family: math;
+}
+@media(max-width:768px) {
+    .moblogo {
+        display: block;
+    }
+
+    .weblogo {
+        display: none;
+    }
+
+    .navbar {
+        background: #fcb21b !important;
+    }
+}
